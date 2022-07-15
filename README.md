@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to WKDS Hive Base
+
+- 🔭 I’m currently working on **> KyUCommunityApp**
+- 🌱 I’m currently learning **Graphical Shaders**
+- 👯 I’m looking to collaborate on **Complex Level projects**
+- 💬 Ask me about **Android / Web Development**
+- 📫 How to reach me: *kromwell005@gmail.com*
+- ⚡ Fun fact: I see code ...
 
 <!--
 **MichaelWayneKM/MichaelWayneKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
