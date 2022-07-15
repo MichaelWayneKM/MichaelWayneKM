@@ -1,6 +1,6 @@
 # Welcome to WKDS Hive Base
 
-![WKDS LOGO](https://waynekmdigital.web.app/static/media/finished-main-logo.1c39b8b3.svg)
+![WKDS LOGO](https://lh3.googleusercontent.com/p/AF1QipOb8rDSrCHU3vmRZ0oiNhYiKpmjl1__7VjkN8lk=s1000)
 
 
 
