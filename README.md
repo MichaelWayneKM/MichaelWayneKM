@@ -14,4 +14,4 @@
 
 
 
-[![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM&show_icons=true&theme=tokyonight)]
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM&show_icons=true&theme=tokyonight)
