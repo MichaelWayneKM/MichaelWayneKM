@@ -1,6 +1,6 @@
 # Welcome to WKDS Hive Base
 
-![WKDS LOGO](https://lh3.googleusercontent.com/p/AF1QipOb8rDSrCHU3vmRZ0oiNhYiKpmjl1__7VjkN8lk=s1000)
+![WKDS LOGO](https://lh3.googleusercontent.com/p/AF1QipOb8rDSrCHU3vmRZ0oiNhYiKpmjl1__7VjkN8lk=s400)
 
 
 
