@@ -1,6 +1,9 @@
 # Michael Wayne's Repo ( Wayne KM Digital Solutions )
 
 Welcome to my repo, 
+My name is **Michael Wayne N** a founder, developer and student with passion for code and learning complex stuff and building great products with whatever knowledge i aquire in my path. I learn and unlearn concepts anytime as i am flexible enough to adapt to rapid changes in the modern world of software product development.
+
+
 
 ## Who i am
 ✅ELITE developer, specializing in React Native Development for both Android and IOS. I have worked with a lot of ✨High Profile Clients✨ in my React Native Software Engineering line of work. I believe that with my Technical and Feasibility study skills I will generate Highly scalable and full Optimized Source code and Applications to fit any business current needs and expectations. 
