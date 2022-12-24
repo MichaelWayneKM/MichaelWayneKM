@@ -32,4 +32,4 @@ Software Company based in Kenya Specializing in Development of Android, IOS, Des
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM&show_icons=true&theme=tokyonight)
 
 # Languages
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM)]
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MichaelWayneKM&theme=tokyonight)
