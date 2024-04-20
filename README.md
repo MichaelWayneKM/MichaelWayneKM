@@ -27,8 +27,8 @@ Software Company based in Kenya Specializing in Development of Android, IOS, Des
 - 📫 How to reach me: *mwaynenjogu@gmail.com*
 - ⚡ Fun fact: I see code ...
 
-# PORTFLIO
-![My Portfolio](https://digital-resume-blond.vercel.app/)
+## PORTFLIO
+- My Portfolio: *https://digital-resume-blond.vercel.app*
 
 # STATS
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM&show_icons=true&theme=tokyonight)
