@@ -20,13 +20,15 @@ Software Company based in Kenya Specializing in Development of Android, IOS, Des
 
 
 ## Meta Information
-- 🔭 I’m currently working on **> KyUCommunityApp**
-- 🌱 I’m currently learning **Graphical Shaders**
+- 🔭 I’m currently working on **> Artificial Intelligence (Tensorflow)**
+- 🌱 I’m currently learning **Graphical Shaders & Canvas Geometry**
 - 👯 I’m looking to collaborate on **Complex Level projects**
 - 💬 Ask me about **Android / Web Development**
 - 📫 How to reach me: *mwaynenjogu@gmail.com*
 - ⚡ Fun fact: I see code ...
 
+# PORTFLIO
+![My Portfolio](https://digital-resume-blond.vercel.app/)
 
 # STATS
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM&show_icons=true&theme=tokyonight)
