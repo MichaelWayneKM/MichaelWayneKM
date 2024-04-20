@@ -8,9 +8,9 @@ My name is **Michael Wayne N** a founder, developer and student with passion for
 ## Who i am
 ✅ELITE developer, specializing in React Native Development for both Android and IOS. I have worked with a lot of ✨High Profile Clients✨ in my React Native Software Engineering line of work. I believe that with my Technical and Feasibility study skills I will generate Highly scalable and full Optimized Source code and Applications to fit any business current needs and expectations. 
 
-#### Founder: KyU Community Distribution
+#### Elite Freelancer: Upwork inc
 #### Founder & Lead Developer: Wayne KM Digital LLC
-#### Developer: Umeskia Softwares inc
+#### Co. Developer: Umeskia Softwares inc
 
 
 # Our Brand
