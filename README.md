@@ -10,13 +10,12 @@ My name is **Michael Wayne N** a founder, developer and student with passion for
 
 #### Elite Freelancer: Upwork inc
 #### Founder & Lead Developer: Wayne KM Digital LLC
-#### Co. Developer: Umeskia Softwares inc
 
 
 # Our Brand
 ![WKDS LOGO](https://lh3.googleusercontent.com/p/AF1QipOb8rDSrCHU3vmRZ0oiNhYiKpmjl1__7VjkN8lk=s400)
 
-Software Company based in Kenya Specializing in Development of Android, IOS, Desktop and Web-Based Decentralized software as well as Utility aid services in the field of Software and Social Engineering. Blockchain distribution and creation in the form of NFTs and Crypto to Mpesa worklets all based on Wayne KM Digital Solutions, RAVA and Nervos CKB.
+Software Company based in Kenya Specializing in Development of Android, IOS, Desktop and Web-Based software as well as Utility aid services in the field of Software and Social Engineering.
 
 
 ## Meta Information
@@ -28,7 +27,7 @@ Software Company based in Kenya Specializing in Development of Android, IOS, Des
 - ⚡ Fun fact: I see code ...
 
 ## PORTFLIO
-- My Portfolio: *https://digital-resume-blond.vercel.app*
+- My Portfolio: *https://portfolio.wnkd.org*
 
 # STATS
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWayneKM&show_icons=true&theme=tokyonight)
